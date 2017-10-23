@@ -1,0 +1,166 @@
+.barra{
+	border-bottom: 0.5px solid #D2D2D2;
+	padding: 5px;
+	position: relative;
+	height: 50px;
+}
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: auto;
+}
+li{
+	width: 100px;
+	text-align: center;
+	float: left;
+}
+a{
+	display: block;
+	text-decoration: none;
+	color: #000;
+	margin: 22px;
+}
+.fa-pinterest{
+	color: #C00000;
+	font-size: 35px;
+	margin-left: 0;
+	position: absolute;
+	bottom: 17px;
+}
+.fa-user{
+	color: #B4B4B4;
+	font-size: 22px;
+	position: absolute;
+	bottom: 25px;
+	right: 190px;
+}
+.fa-bars{
+	color: #B4B4B4;
+	font-size: 22px;
+	position: absolute;
+	bottom: 25px;
+	right: 130px;
+}
+.fa-commenting{
+	color: #B4B4B4;
+	font-size: 22px;
+	right: 70px;
+	bottom: 25px;
+	position: absolute;
+}
+.fa-search{
+	color: #B4B4B4;
+	font-size: 22px;
+	left: 150px;
+	bottom: 25px;
+	position: absolute;
+}
+.barrita{
+	width: 910px;
+	height: 40px;
+	border-radius: 5px;
+	background-color: #EFEFEF;
+	position: absolute;
+	bottom: -8px;
+	left: 90px;
+}
+.buscar{
+	color: #555555;
+    position: absolute;
+    left: 160px;
+    font-size: 18px;
+    bottom: 23px;
+    font-family: helvetica;
+}
+.busqueda{
+	padding: 5px;
+	position: relative;
+	height: 50px;
+}
+.boton{
+	padding: 15px;
+	background-color: #C00000;
+	color: #FFF;
+	border-radius: 5px;
+	position: absolute;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+.imagenes{
+	position: relative;
+	overflow: hidden;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+img{
+	width: 260px;
+	padding: 12px;
+	border-radius: 20px;
+	float: left;
+}
+#choco{
+	bottom: -33px;
+	left: 202px;
+}
+#sleep{
+	bottom: -33px;
+	left: 333px;
+}
+#eat{
+	bottom: -33px;
+	left: 430px;
+}
+#series{
+	bottom: -33px;
+	left: 510px;
+}
+#books{
+	bottom: -33px;
+	right: 525px;
+}
+#movies{
+	bottom: -33px;
+	right: 422px;
+}
+#play{
+	bottom: -33px;
+	right: 340px;
+}
+#cook{
+	bottom: -33px;
+	right: 230px;
+}
+.primera-columna{
+	top: 25px;
+	margin-left: 50px;
+	width: 280px;
+	position: relative;
+}
+.segunda-columna{
+	bottom: 2635px;
+    margin-left: 340px;
+	width: 280px;
+	position: relative;
+}
+.tercera-columna{
+	bottom: 5296px;
+    margin-left: 630px;
+	width: 280px;
+	position: relative;
+}
+.cuarta-columna{
+	bottom: 7957px;
+    margin-left: 920px;
+	width: 280px;
+	position: relative;
+}
+p{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+	color: #565656;
+	padding: 15px;
+	margin-top: 35px;
+	margin-bottom: 50px;
+}
