@@ -133,28 +133,24 @@ img{
 	right: 230px;
 }
 .primera-columna{
-	top: 25px;
 	margin-left: 50px;
 	width: 280px;
-	position: relative;
+	position: absolute;
 }
 .segunda-columna{
-	bottom: 2635px;
-    margin-left: 340px;
+	margin-left: 340px;
 	width: 280px;
-	position: relative;
+	position: absolute;
 }
 .tercera-columna{
-	bottom: 5296px;
-    margin-left: 630px;
+	margin-left: 630px;
 	width: 280px;
-	position: relative;
+	position: absolute;
 }
 .cuarta-columna{
-	bottom: 7957px;
-    margin-left: 920px;
+	margin-left: 920px;
 	width: 280px;
-	position: relative;
+	position: absolute;
 }
 p{
 	font-family: 'Source Sans Pro', sans-serif;
